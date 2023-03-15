@@ -173,6 +173,6 @@ local Button = Tab:CreateButton({
             end,
             })
       
-
 local Tab = Window:CreateTab("Credits")
 local Paragraph = Tab:CreateParagraph({Title = "dumdoesdodrip", Content = "Owner. PRIVATE VERSION 1.0.4"})
+end end
